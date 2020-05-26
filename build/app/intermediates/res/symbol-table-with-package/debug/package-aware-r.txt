@@ -1,4 +1,4 @@
-com.example.spend_tracker
+com.example.calculator
 attr alpha
 attr font
 attr fontProviderAuthority

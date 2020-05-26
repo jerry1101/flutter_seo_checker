@@ -1,4 +1,4 @@
-# spend_tracker
+# calculator
 
 A new Flutter project.
 
